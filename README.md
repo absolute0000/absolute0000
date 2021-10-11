@@ -1,3 +1,4 @@
+![](firegif.gif)
 - 👋 Hi, I’m @absolutezero
 - 👀 I’m interested in coding games and stuff
 - 🌱 I’m currently learning machine learning python
